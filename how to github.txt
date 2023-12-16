@@ -1,0 +1,17 @@
+Skidanje repozirotijuma:
+	git clone [link do repozitorijuma].git
+
+povlacenje izmena:
+	cd [Lokacija na disku gde ti je skinut repozitorijum]
+	git pull
+
+ubacivanje izmena (mozes samo na repojima gde si editor):
+	cd [Lokacija na disku gde ti je skinut repozitorijum]
+	// Ubacivanje svih fajlova koji su imali izmenu
+	git add .
+	// Opciono, mozes da vidis koje su ti izmene
+	git status
+	// Komitovanje izmena sa porukom
+	git commit -m [Poruka koju zelis da ubacis]
+	// Ubacivanje izmena na github repo (online, dostupno sa fona preko app)
+	git push
