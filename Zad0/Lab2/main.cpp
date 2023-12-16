@@ -34,13 +34,37 @@ int main()
 	}
 	cout << *r;
 
-	delete r;
-	delete p;
-	delete u;
+	if (r)
+	{
+		delete r;
+		r = nullptr;
+	}
 
-	for(int i=0;i<n;i++)
+	if (p)
+	{
+		delete p;
+		p = nullptr;
+	}
+
+	if (u)
+	{
+		delete u;
+		u = nullptr;
+	}
+
+	for (int i = 0; i < n; i++)
 	{ 
-		delete skupovi[i];
+		if (skupovi[i])
+		{
+			delete skupovi[i];
+			skupovi[i] = nullptr;
+		}
+	}
+	
+	if (skupovi)
+	{
+		delete[]skupovi;
+		skupovi = nullptr;
 	}
 
 	return 0;
