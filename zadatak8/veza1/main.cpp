@@ -9,6 +9,8 @@ int main()
 	String podstring = 20;
 	podstring.ucitavanjeStringa();
 
+	// Cao Mladene, kako si?
+
 	int p = str->pozicijaPodstringa(podstring);
 	if (p == -1)
 		cout << "Glavni string ne sadrzi podstring." << endl;
