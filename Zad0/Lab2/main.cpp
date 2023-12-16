@@ -34,7 +34,14 @@ int main()
 	}
 	cout << *r;
 
-	delete[]skupovi;
+	delete r;
+	delete p;
+	delete u;
+
+	for(int i=0;i<n;i++)
+	{ 
+		delete skupovi[i];
+	}
 
 	return 0;
 }
