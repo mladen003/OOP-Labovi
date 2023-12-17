@@ -9,17 +9,21 @@ class Vektor
 public:
 	Vektor();
 	Vektor(int n);
+	Vektor(const Vektor& desni);
 	~Vektor();
-	inline void kElelemnt(int k)
+	inline void postavi(int indeks, int vrednost)
 	{
-		n = k;
+		niz[indeks] = vrednost;
 	}
-	inline int vrednostKelementa(int k) const
+	inline int vrednostElementa(int indeks) const
 	{
-		return niz[k];
+		return niz[indeks];
 	}
 	void uredjenjeNiza();
-	double skalarniProizvod();
-	
+	double skalarniProizvod(const Vektor& desni);
+	int srVrednost();
+	friend ostream& operator<<(ostream& izlaz, const Vektor& obj);
+	friend istream& operator>>(istream& ulaz, Vektor& obj);
+
 };
 
