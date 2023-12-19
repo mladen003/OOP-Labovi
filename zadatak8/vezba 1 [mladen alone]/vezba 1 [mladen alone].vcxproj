@@ -127,11 +127,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Tacka.h" />
     <ClInclude Include="Vektor.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Tacka.cpp" />
     <ClCompile Include="Vektor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="koordinate.txt" />
+    <Text Include="mnozenje vektora skalarom.txt" />
+    <Text Include="mnozenje vektora.txt" />
+    <Text Include="rotiran vektor udesno.txt" />
+    <Text Include="rotiran vektor ulevo.txt" />
+    <Text Include="uredjen vektor.txt" />
+    <Text Include="zbir vektora skalarom.txt" />
+    <Text Include="zbir vektora.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

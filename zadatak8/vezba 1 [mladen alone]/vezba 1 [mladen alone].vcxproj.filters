@@ -18,6 +18,9 @@
     <ClInclude Include="Vektor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Tacka.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Vektor.cpp">
@@ -26,5 +29,34 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Tacka.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="koordinate.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="mnozenje vektora skalarom.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="mnozenje vektora.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="zbir vektora skalarom.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="zbir vektora.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="uredjen vektor.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="rotiran vektor udesno.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="rotiran vektor ulevo.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
