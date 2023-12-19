@@ -1,4 +1,4 @@
-#include "String.h"
+#include "Paragraph.h"
 int main()
 {
 	int n = 10;
