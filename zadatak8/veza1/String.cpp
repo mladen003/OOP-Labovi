@@ -145,7 +145,7 @@ String String::svaVelikaSlova()
 
 String String::PadRight(char c, int duzina)
 {
-	String s(duzina);
+	String s(duzina+n);
 
 	int n = 0;
 	while (niz[n] != '\0')
@@ -154,7 +154,7 @@ String String::PadRight(char c, int duzina)
 	for (int i = 0; i < n; i++)
 		s.niz[i] = niz[i];
 
-	for (int j = n; j < duzina; j++)
+	for (int j = n; j < duzina+n; j++)
 		s.niz[j] = c;
 	s.niz[duzina] = '\0';
 
@@ -190,6 +190,7 @@ ostream& operator<<(ostream& ispis, const String& obj)
 		for (int i = 0; i < obj.n; i++)
 			ispis << obj.niz[i];
 	}
+	ispis << endl;
 	return ispis;
 }
 
