@@ -1,0 +1,2018 @@
+Torba za laptop ---> cena: 101 sadrzaj: prazna!
+Laptop ---> cena: 101 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 101 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 102 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 102 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 104 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 106 sadrzaj: prazna!
+Laptop ---> cena: 107 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 111 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 111 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 111 sadrzaj: prazna!
+Laptop ---> cena: 111 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 112 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 114 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 117 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 120 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 121 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 122 sadrzaj: prazna!
+Laptop ---> cena: 122 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 123 sadrzaj: prazna!
+Laptop ---> cena: 123 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 126 sadrzaj: prazna!
+Torba za laptop ---> cena: 127 sadrzaj: prazna!
+Torba za laptop ---> cena: 127 sadrzaj: prazna!
+Torba za laptop ---> cena: 127 sadrzaj: prazna!
+Torba za laptop ---> cena: 128 sadrzaj: prazna!
+Laptop ---> cena: 129 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 129 sadrzaj: prazna!
+Laptop ---> cena: 130 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 131 sadrzaj: prazna!
+Torba za laptop ---> cena: 134 sadrzaj: prazna!
+Torba za laptop ---> cena: 136 sadrzaj: prazna!
+Torba za laptop ---> cena: 136 sadrzaj: prazna!
+Laptop ---> cena: 136 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 138 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 139 sadrzaj: prazna!
+Laptop ---> cena: 142 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 143 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 143 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 144 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 145 sadrzaj: prazna!
+Torba za laptop ---> cena: 146 sadrzaj: prazna!
+Laptop ---> cena: 150 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 150 sadrzaj: prazna!
+Laptop ---> cena: 151 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 153 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 154 sadrzaj: prazna!
+Torba za laptop ---> cena: 156 sadrzaj: prazna!
+Torba za laptop ---> cena: 156 sadrzaj: prazna!
+Laptop ---> cena: 157 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 157 sadrzaj: prazna!
+Laptop ---> cena: 157 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 159 sadrzaj: prazna!
+Laptop ---> cena: 159 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 164 sadrzaj: prazna!
+Laptop ---> cena: 164 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 166 sadrzaj: prazna!
+Laptop ---> cena: 167 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 168 sadrzaj: prazna!
+Laptop ---> cena: 169 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 169 sadrzaj: prazna!
+Torba za laptop ---> cena: 169 sadrzaj: prazna!
+Laptop ---> cena: 169 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 170 sadrzaj: prazna!
+Torba za laptop ---> cena: 170 sadrzaj: prazna!
+Laptop ---> cena: 171 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 171 sadrzaj: prazna!
+Laptop ---> cena: 171 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 172 sadrzaj: prazna!
+Laptop ---> cena: 172 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 172 sadrzaj: prazna!
+Torba za laptop ---> cena: 174 sadrzaj: prazna!
+Laptop ---> cena: 174 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 175 sadrzaj: prazna!
+Laptop ---> cena: 175 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 177 sadrzaj: prazna!
+Torba za laptop ---> cena: 178 sadrzaj: prazna!
+Laptop ---> cena: 179 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 179 sadrzaj: prazna!
+Torba za laptop ---> cena: 179 sadrzaj: prazna!
+Torba za laptop ---> cena: 180 sadrzaj: prazna!
+Torba za laptop ---> cena: 182 sadrzaj: prazna!
+Laptop ---> cena: 182 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 182 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 182 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 184 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 185 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 188 sadrzaj: prazna!
+Laptop ---> cena: 189 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 192 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 193 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 193 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 194 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 195 sadrzaj: prazna!
+Torba za laptop ---> cena: 195 sadrzaj: prazna!
+Laptop ---> cena: 195 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 196 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 198 sadrzaj: prazna!
+Torba za laptop ---> cena: 199 sadrzaj: prazna!
+Laptop ---> cena: 199 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 199 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 200 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 204 sadrzaj: prazna!
+Torba za laptop ---> cena: 205 sadrzaj: prazna!
+Laptop ---> cena: 206 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 206 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 206 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 208 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 210 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 210 sadrzaj: prazna!
+Laptop ---> cena: 213 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 213 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 214 sadrzaj: prazna!
+Laptop ---> cena: 216 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 218 sadrzaj: prazna!
+Torba za laptop ---> cena: 219 sadrzaj: prazna!
+Laptop ---> cena: 219 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 219 sadrzaj: prazna!
+Torba za laptop ---> cena: 220 sadrzaj: prazna!
+Torba za laptop ---> cena: 221 sadrzaj: prazna!
+Laptop ---> cena: 222 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 223 sadrzaj: prazna!
+Torba za laptop ---> cena: 224 sadrzaj: prazna!
+Torba za laptop ---> cena: 227 sadrzaj: prazna!
+Torba za laptop ---> cena: 229 sadrzaj: prazna!
+Torba za laptop ---> cena: 230 sadrzaj: prazna!
+Torba za laptop ---> cena: 230 sadrzaj: prazna!
+Laptop ---> cena: 231 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 231 sadrzaj: prazna!
+Torba za laptop ---> cena: 234 sadrzaj: prazna!
+Torba za laptop ---> cena: 236 sadrzaj: prazna!
+Laptop ---> cena: 237 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 237 sadrzaj: prazna!
+Laptop ---> cena: 237 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 238 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 238 sadrzaj: prazna!
+Torba za laptop ---> cena: 239 sadrzaj: prazna!
+Laptop ---> cena: 239 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 240 sadrzaj: prazna!
+Torba za laptop ---> cena: 241 sadrzaj: prazna!
+Laptop ---> cena: 241 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 242 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 243 sadrzaj: prazna!
+Torba za laptop ---> cena: 244 sadrzaj: prazna!
+Torba za laptop ---> cena: 245 sadrzaj: prazna!
+Torba za laptop ---> cena: 245 sadrzaj: prazna!
+Torba za laptop ---> cena: 246 sadrzaj: prazna!
+Torba za laptop ---> cena: 247 sadrzaj: prazna!
+Laptop ---> cena: 247 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 247 sadrzaj: prazna!
+Torba za laptop ---> cena: 249 sadrzaj: prazna!
+Laptop ---> cena: 250 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 251 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 251 sadrzaj: prazna!
+Torba za laptop ---> cena: 251 sadrzaj: prazna!
+Torba za laptop ---> cena: 252 sadrzaj: prazna!
+Torba za laptop ---> cena: 252 sadrzaj: prazna!
+Torba za laptop ---> cena: 253 sadrzaj: prazna!
+Torba za laptop ---> cena: 254 sadrzaj: Laptop ---> cena: 349 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 255 sadrzaj: prazna!
+Torba za laptop ---> cena: 255 sadrzaj: prazna!
+Laptop ---> cena: 256 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 257 sadrzaj: prazna!
+Laptop ---> cena: 257 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 260 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 260 sadrzaj: prazna!
+Torba za laptop ---> cena: 261 sadrzaj: prazna!
+Torba za laptop ---> cena: 263 sadrzaj: prazna!
+Torba za laptop ---> cena: 264 sadrzaj: prazna!
+Laptop ---> cena: 266 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 267 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 270 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 270 sadrzaj: prazna!
+Torba za laptop ---> cena: 271 sadrzaj: prazna!
+Laptop ---> cena: 271 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 272 sadrzaj: prazna!
+Torba za laptop ---> cena: 272 sadrzaj: prazna!
+Laptop ---> cena: 274 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 275 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 276 sadrzaj: prazna!
+Laptop ---> cena: 276 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 276 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 277 sadrzaj: prazna!
+Laptop ---> cena: 277 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 278 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 278 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 279 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 280 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 281 sadrzaj: prazna!
+Torba za laptop ---> cena: 281 sadrzaj: prazna!
+Laptop ---> cena: 283 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 284 sadrzaj: prazna!
+Torba za laptop ---> cena: 284 sadrzaj: prazna!
+Torba za laptop ---> cena: 285 sadrzaj: prazna!
+Torba za laptop ---> cena: 285 sadrzaj: prazna!
+Torba za laptop ---> cena: 288 sadrzaj: prazna!
+Laptop ---> cena: 289 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 289 sadrzaj: prazna!
+Laptop ---> cena: 290 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 290 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 291 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 291 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 293 sadrzaj: prazna!
+Laptop ---> cena: 293 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 294 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 294 sadrzaj: prazna!
+Laptop ---> cena: 294 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 295 sadrzaj: prazna!
+Torba za laptop ---> cena: 300 sadrzaj: prazna!
+Torba za laptop ---> cena: 301 sadrzaj: prazna!
+Torba za laptop ---> cena: 301 sadrzaj: prazna!
+Laptop ---> cena: 301 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 302 sadrzaj: prazna!
+Torba za laptop ---> cena: 302 sadrzaj: prazna!
+Torba za laptop ---> cena: 303 sadrzaj: prazna!
+Torba za laptop ---> cena: 304 sadrzaj: prazna!
+Laptop ---> cena: 304 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 308 sadrzaj: prazna!
+Laptop ---> cena: 309 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 310 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 310 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 312 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 312 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 312 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 313 sadrzaj: prazna!
+Laptop ---> cena: 314 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 316 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 316 sadrzaj: prazna!
+Laptop ---> cena: 317 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 317 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 318 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 319 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 321 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 323 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 324 sadrzaj: prazna!
+Laptop ---> cena: 327 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 328 sadrzaj: prazna!
+Torba za laptop ---> cena: 330 sadrzaj: prazna!
+Laptop ---> cena: 331 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 333 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 333 sadrzaj: prazna!
+Laptop ---> cena: 334 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 334 sadrzaj: prazna!
+Torba za laptop ---> cena: 335 sadrzaj: prazna!
+Torba za laptop ---> cena: 335 sadrzaj: prazna!
+Laptop ---> cena: 336 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 336 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 337 sadrzaj: prazna!
+Laptop ---> cena: 337 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 338 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 339 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 339 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 340 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 340 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 341 sadrzaj: prazna!
+Laptop ---> cena: 342 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 344 sadrzaj: prazna!
+Torba za laptop ---> cena: 344 sadrzaj: prazna!
+Laptop ---> cena: 345 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 347 sadrzaj: prazna!
+Laptop ---> cena: 347 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 347 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 349 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 349 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 352 sadrzaj: prazna!
+Laptop ---> cena: 352 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 352 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 353 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 354 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 357 sadrzaj: prazna!
+Torba za laptop ---> cena: 357 sadrzaj: prazna!
+Laptop ---> cena: 359 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 359 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 359 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 362 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 364 sadrzaj: prazna!
+Laptop ---> cena: 367 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 368 sadrzaj: prazna!
+Torba za laptop ---> cena: 369 sadrzaj: prazna!
+Torba za laptop ---> cena: 369 sadrzaj: prazna!
+Torba za laptop ---> cena: 369 sadrzaj: prazna!
+Laptop ---> cena: 369 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 371 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 371 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 373 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 373 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 373 sadrzaj: prazna!
+Laptop ---> cena: 375 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 378 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 379 sadrzaj: prazna!
+Laptop ---> cena: 380 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 381 sadrzaj: prazna!
+Torba za laptop ---> cena: 381 sadrzaj: prazna!
+Laptop ---> cena: 382 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 384 sadrzaj: prazna!
+Torba za laptop ---> cena: 384 sadrzaj: prazna!
+Torba za laptop ---> cena: 386 sadrzaj: prazna!
+Torba za laptop ---> cena: 386 sadrzaj: prazna!
+Laptop ---> cena: 387 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 387 sadrzaj: prazna!
+Torba za laptop ---> cena: 389 sadrzaj: prazna!
+Torba za laptop ---> cena: 389 sadrzaj: prazna!
+Torba za laptop ---> cena: 389 sadrzaj: prazna!
+Laptop ---> cena: 391 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 393 sadrzaj: prazna!
+Laptop ---> cena: 393 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 394 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 394 sadrzaj: prazna!
+Torba za laptop ---> cena: 394 sadrzaj: prazna!
+Torba za laptop ---> cena: 395 sadrzaj: prazna!
+Laptop ---> cena: 396 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 397 sadrzaj: prazna!
+Torba za laptop ---> cena: 397 sadrzaj: prazna!
+Laptop ---> cena: 398 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 399 sadrzaj: prazna!
+Laptop ---> cena: 400 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 400 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 400 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 401 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 403 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 403 sadrzaj: prazna!
+Torba za laptop ---> cena: 403 sadrzaj: prazna!
+Laptop ---> cena: 404 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 404 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 405 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 406 sadrzaj: prazna!
+Torba za laptop ---> cena: 407 sadrzaj: prazna!
+Torba za laptop ---> cena: 408 sadrzaj: prazna!
+Torba za laptop ---> cena: 409 sadrzaj: prazna!
+Torba za laptop ---> cena: 409 sadrzaj: prazna!
+Torba za laptop ---> cena: 410 sadrzaj: prazna!
+Laptop ---> cena: 410 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 411 sadrzaj: prazna!
+Laptop ---> cena: 412 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 413 sadrzaj: prazna!
+Laptop ---> cena: 413 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 413 sadrzaj: prazna!
+Laptop ---> cena: 416 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 416 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 417 sadrzaj: prazna!
+Torba za laptop ---> cena: 418 sadrzaj: prazna!
+Torba za laptop ---> cena: 419 sadrzaj: prazna!
+Torba za laptop ---> cena: 419 sadrzaj: prazna!
+Laptop ---> cena: 422 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 423 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 423 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 423 sadrzaj: prazna!
+Laptop ---> cena: 424 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 426 sadrzaj: prazna!
+Laptop ---> cena: 426 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 428 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 429 sadrzaj: prazna!
+Laptop ---> cena: 429 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 429 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 432 sadrzaj: prazna!
+Torba za laptop ---> cena: 433 sadrzaj: prazna!
+Laptop ---> cena: 434 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 435 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 435 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 435 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 436 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 436 sadrzaj: prazna!
+Torba za laptop ---> cena: 440 sadrzaj: prazna!
+Torba za laptop ---> cena: 442 sadrzaj: prazna!
+Laptop ---> cena: 442 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 442 sadrzaj: prazna!
+Torba za laptop ---> cena: 443 sadrzaj: prazna!
+Torba za laptop ---> cena: 445 sadrzaj: prazna!
+Torba za laptop ---> cena: 445 sadrzaj: prazna!
+Laptop ---> cena: 445 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 445 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 448 sadrzaj: prazna!
+Laptop ---> cena: 448 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 449 sadrzaj: prazna!
+Torba za laptop ---> cena: 449 sadrzaj: prazna!
+Torba za laptop ---> cena: 450 sadrzaj: prazna!
+Torba za laptop ---> cena: 451 sadrzaj: prazna!
+Laptop ---> cena: 451 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 452 sadrzaj: prazna!
+Laptop ---> cena: 452 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 456 sadrzaj: prazna!
+Laptop ---> cena: 457 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 461 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 463 sadrzaj: prazna!
+Laptop ---> cena: 463 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 464 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 464 sadrzaj: prazna!
+Laptop ---> cena: 468 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 469 sadrzaj: prazna!
+Laptop ---> cena: 469 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 469 sadrzaj: prazna!
+Torba za laptop ---> cena: 470 sadrzaj: prazna!
+Torba za laptop ---> cena: 474 sadrzaj: prazna!
+Torba za laptop ---> cena: 476 sadrzaj: prazna!
+Torba za laptop ---> cena: 477 sadrzaj: prazna!
+Laptop ---> cena: 477 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 477 sadrzaj: prazna!
+Torba za laptop ---> cena: 477 sadrzaj: prazna!
+Laptop ---> cena: 477 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 478 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 479 sadrzaj: prazna!
+Laptop ---> cena: 479 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 479 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 479 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 479 sadrzaj: prazna!
+Laptop ---> cena: 481 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 481 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 482 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 482 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 484 sadrzaj: prazna!
+Laptop ---> cena: 485 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 486 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 487 sadrzaj: prazna!
+Laptop ---> cena: 489 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 489 sadrzaj: prazna!
+Torba za laptop ---> cena: 490 sadrzaj: prazna!
+Torba za laptop ---> cena: 495 sadrzaj: prazna!
+Laptop ---> cena: 496 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 496 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 497 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 497 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 497 sadrzaj: prazna!
+Torba za laptop ---> cena: 498 sadrzaj: prazna!
+Laptop ---> cena: 498 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 498 sadrzaj: prazna!
+Torba za laptop ---> cena: 499 sadrzaj: prazna!
+Torba za laptop ---> cena: 499 sadrzaj: prazna!
+Laptop ---> cena: 500 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 500 sadrzaj: prazna!
+Laptop ---> cena: 501 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 501 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 501 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 501 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 501 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 504 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 507 sadrzaj: prazna!
+Torba za laptop ---> cena: 508 sadrzaj: prazna!
+Torba za laptop ---> cena: 509 sadrzaj: prazna!
+Torba za laptop ---> cena: 509 sadrzaj: prazna!
+Laptop ---> cena: 511 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 511 sadrzaj: prazna!
+Torba za laptop ---> cena: 513 sadrzaj: prazna!
+Laptop ---> cena: 514 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 514 sadrzaj: prazna!
+Laptop ---> cena: 515 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 515 sadrzaj: prazna!
+Torba za laptop ---> cena: 515 sadrzaj: prazna!
+Laptop ---> cena: 516 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 519 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 520 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 520 sadrzaj: prazna!
+Laptop ---> cena: 521 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 521 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 522 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 522 sadrzaj: prazna!
+Torba za laptop ---> cena: 523 sadrzaj: prazna!
+Laptop ---> cena: 524 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 525 sadrzaj: prazna!
+Torba za laptop ---> cena: 525 sadrzaj: prazna!
+Laptop ---> cena: 526 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 527 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 527 sadrzaj: prazna!
+Torba za laptop ---> cena: 527 sadrzaj: prazna!
+Torba za laptop ---> cena: 528 sadrzaj: prazna!
+Torba za laptop ---> cena: 529 sadrzaj: prazna!
+Laptop ---> cena: 529 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 529 sadrzaj: prazna!
+Torba za laptop ---> cena: 530 sadrzaj: prazna!
+Laptop ---> cena: 530 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 533 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 533 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 534 sadrzaj: prazna!
+Laptop ---> cena: 536 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 537 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 537 sadrzaj: prazna!
+Laptop ---> cena: 538 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 540 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 541 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 542 sadrzaj: prazna!
+Torba za laptop ---> cena: 543 sadrzaj: prazna!
+Torba za laptop ---> cena: 543 sadrzaj: prazna!
+Torba za laptop ---> cena: 544 sadrzaj: prazna!
+Laptop ---> cena: 546 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 547 sadrzaj: prazna!
+Laptop ---> cena: 547 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 549 sadrzaj: prazna!
+Torba za laptop ---> cena: 549 sadrzaj: prazna!
+Laptop ---> cena: 549 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 551 sadrzaj: prazna!
+Laptop ---> cena: 551 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 552 sadrzaj: prazna!
+Laptop ---> cena: 553 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 553 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 555 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 558 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 561 sadrzaj: prazna!
+Laptop ---> cena: 561 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 562 sadrzaj: prazna!
+Torba za laptop ---> cena: 563 sadrzaj: prazna!
+Torba za laptop ---> cena: 564 sadrzaj: prazna!
+Torba za laptop ---> cena: 564 sadrzaj: prazna!
+Torba za laptop ---> cena: 566 sadrzaj: prazna!
+Laptop ---> cena: 566 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 566 sadrzaj: prazna!
+Laptop ---> cena: 567 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 568 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 569 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 570 sadrzaj: prazna!
+Torba za laptop ---> cena: 570 sadrzaj: prazna!
+Torba za laptop ---> cena: 570 sadrzaj: prazna!
+Laptop ---> cena: 571 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 572 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 572 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 573 sadrzaj: prazna!
+Torba za laptop ---> cena: 573 sadrzaj: prazna!
+Laptop ---> cena: 575 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 575 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 576 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 578 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 579 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 580 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 580 sadrzaj: prazna!
+Torba za laptop ---> cena: 580 sadrzaj: prazna!
+Laptop ---> cena: 582 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 582 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 583 sadrzaj: prazna!
+Laptop ---> cena: 585 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 585 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 587 sadrzaj: prazna!
+Torba za laptop ---> cena: 587 sadrzaj: prazna!
+Laptop ---> cena: 588 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 588 sadrzaj: prazna!
+Laptop ---> cena: 590 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 590 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 590 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 590 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 591 sadrzaj: prazna!
+Laptop ---> cena: 592 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 593 sadrzaj: prazna!
+Laptop ---> cena: 594 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 595 sadrzaj: prazna!
+Laptop ---> cena: 596 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 596 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 596 sadrzaj: prazna!
+Torba za laptop ---> cena: 596 sadrzaj: prazna!
+Torba za laptop ---> cena: 598 sadrzaj: prazna!
+Torba za laptop ---> cena: 600 sadrzaj: prazna!
+Torba za laptop ---> cena: 601 sadrzaj: prazna!
+Torba za laptop ---> cena: 601 sadrzaj: prazna!
+Laptop ---> cena: 602 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 603 sadrzaj: prazna!
+Laptop ---> cena: 604 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 604 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 604 sadrzaj: prazna!
+Torba za laptop ---> cena: 604 sadrzaj: prazna!
+Laptop ---> cena: 604 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 605 sadrzaj: prazna!
+Laptop ---> cena: 606 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 607 sadrzaj: prazna!
+Laptop ---> cena: 607 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 607 sadrzaj: prazna!
+Laptop ---> cena: 607 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 607 sadrzaj: prazna!
+Laptop ---> cena: 610 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 612 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 614 sadrzaj: prazna!
+Torba za laptop ---> cena: 615 sadrzaj: prazna!
+Laptop ---> cena: 616 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 617 sadrzaj: prazna!
+Laptop ---> cena: 623 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 625 sadrzaj: prazna!
+Laptop ---> cena: 629 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 630 sadrzaj: prazna!
+Torba za laptop ---> cena: 630 sadrzaj: prazna!
+Torba za laptop ---> cena: 631 sadrzaj: prazna!
+Laptop ---> cena: 631 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 633 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 635 sadrzaj: prazna!
+Torba za laptop ---> cena: 635 sadrzaj: prazna!
+Laptop ---> cena: 637 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 637 sadrzaj: prazna!
+Laptop ---> cena: 638 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 639 sadrzaj: prazna!
+Laptop ---> cena: 639 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 640 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 640 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 640 sadrzaj: prazna!
+Laptop ---> cena: 642 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 642 sadrzaj: prazna!
+Laptop ---> cena: 643 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 644 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 644 sadrzaj: prazna!
+Torba za laptop ---> cena: 644 sadrzaj: prazna!
+Torba za laptop ---> cena: 645 sadrzaj: prazna!
+Laptop ---> cena: 645 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 645 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 646 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 647 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 649 sadrzaj: prazna!
+Laptop ---> cena: 651 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 651 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 652 sadrzaj: prazna!
+Torba za laptop ---> cena: 654 sadrzaj: prazna!
+Laptop ---> cena: 654 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 655 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 655 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 656 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 657 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 657 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 657 sadrzaj: prazna!
+Laptop ---> cena: 657 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 658 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 658 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 659 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 660 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 661 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 661 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 663 sadrzaj: prazna!
+Laptop ---> cena: 663 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 664 sadrzaj: prazna!
+Torba za laptop ---> cena: 664 sadrzaj: prazna!
+Torba za laptop ---> cena: 665 sadrzaj: prazna!
+Laptop ---> cena: 665 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 665 sadrzaj: prazna!
+Torba za laptop ---> cena: 666 sadrzaj: prazna!
+Laptop ---> cena: 667 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 667 sadrzaj: prazna!
+Torba za laptop ---> cena: 670 sadrzaj: prazna!
+Laptop ---> cena: 672 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 672 sadrzaj: prazna!
+Torba za laptop ---> cena: 673 sadrzaj: prazna!
+Torba za laptop ---> cena: 674 sadrzaj: prazna!
+Torba za laptop ---> cena: 674 sadrzaj: prazna!
+Laptop ---> cena: 675 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 676 sadrzaj: prazna!
+Laptop ---> cena: 676 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 676 sadrzaj: prazna!
+Laptop ---> cena: 676 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 679 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 681 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 681 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 682 sadrzaj: prazna!
+Laptop ---> cena: 683 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 683 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 683 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 687 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 688 sadrzaj: prazna!
+Torba za laptop ---> cena: 688 sadrzaj: prazna!
+Torba za laptop ---> cena: 690 sadrzaj: prazna!
+Laptop ---> cena: 693 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 693 sadrzaj: prazna!
+Laptop ---> cena: 693 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 694 sadrzaj: prazna!
+Laptop ---> cena: 695 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 698 sadrzaj: prazna!
+Laptop ---> cena: 698 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 698 sadrzaj: prazna!
+Laptop ---> cena: 699 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 699 sadrzaj: prazna!
+Torba za laptop ---> cena: 699 sadrzaj: prazna!
+Torba za laptop ---> cena: 701 sadrzaj: prazna!
+Torba za laptop ---> cena: 701 sadrzaj: prazna!
+Torba za laptop ---> cena: 701 sadrzaj: prazna!
+Laptop ---> cena: 702 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 704 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 704 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 708 sadrzaj: prazna!
+Laptop ---> cena: 708 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 708 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 708 sadrzaj: prazna!
+Torba za laptop ---> cena: 708 sadrzaj: prazna!
+Laptop ---> cena: 709 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 710 sadrzaj: prazna!
+Laptop ---> cena: 711 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 711 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 711 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 711 sadrzaj: prazna!
+Laptop ---> cena: 712 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 713 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 715 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 716 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 717 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 717 sadrzaj: prazna!
+Torba za laptop ---> cena: 719 sadrzaj: prazna!
+Torba za laptop ---> cena: 719 sadrzaj: prazna!
+Laptop ---> cena: 720 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 721 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 722 sadrzaj: prazna!
+Torba za laptop ---> cena: 723 sadrzaj: prazna!
+Torba za laptop ---> cena: 724 sadrzaj: prazna!
+Laptop ---> cena: 725 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 726 sadrzaj: prazna!
+Torba za laptop ---> cena: 727 sadrzaj: prazna!
+Torba za laptop ---> cena: 728 sadrzaj: prazna!
+Laptop ---> cena: 729 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 730 sadrzaj: prazna!
+Torba za laptop ---> cena: 732 sadrzaj: prazna!
+Torba za laptop ---> cena: 733 sadrzaj: prazna!
+Laptop ---> cena: 736 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 736 sadrzaj: prazna!
+Torba za laptop ---> cena: 737 sadrzaj: prazna!
+Torba za laptop ---> cena: 740 sadrzaj: prazna!
+Torba za laptop ---> cena: 743 sadrzaj: prazna!
+Laptop ---> cena: 743 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 744 sadrzaj: prazna!
+Torba za laptop ---> cena: 744 sadrzaj: prazna!
+Torba za laptop ---> cena: 744 sadrzaj: prazna!
+Torba za laptop ---> cena: 746 sadrzaj: prazna!
+Torba za laptop ---> cena: 746 sadrzaj: prazna!
+Laptop ---> cena: 746 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 746 sadrzaj: prazna!
+Laptop ---> cena: 748 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 748 sadrzaj: prazna!
+Laptop ---> cena: 750 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 750 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 751 sadrzaj: prazna!
+Laptop ---> cena: 751 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 751 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 752 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 752 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 752 sadrzaj: prazna!
+Torba za laptop ---> cena: 752 sadrzaj: prazna!
+Torba za laptop ---> cena: 752 sadrzaj: prazna!
+Torba za laptop ---> cena: 753 sadrzaj: prazna!
+Laptop ---> cena: 753 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 755 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 757 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 758 sadrzaj: prazna!
+Torba za laptop ---> cena: 758 sadrzaj: prazna!
+Laptop ---> cena: 761 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 762 sadrzaj: prazna!
+Laptop ---> cena: 762 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 763 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 764 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 765 sadrzaj: prazna!
+Laptop ---> cena: 767 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 767 sadrzaj: prazna!
+Laptop ---> cena: 770 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 771 sadrzaj: prazna!
+Laptop ---> cena: 772 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 773 sadrzaj: prazna!
+Laptop ---> cena: 776 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 776 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 777 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 778 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 780 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 781 sadrzaj: prazna!
+Laptop ---> cena: 782 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 784 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 785 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 785 sadrzaj: prazna!
+Torba za laptop ---> cena: 785 sadrzaj: prazna!
+Laptop ---> cena: 786 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 788 sadrzaj: prazna!
+Laptop ---> cena: 788 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 788 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 795 sadrzaj: prazna!
+Torba za laptop ---> cena: 797 sadrzaj: prazna!
+Laptop ---> cena: 797 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 801 sadrzaj: prazna!
+Laptop ---> cena: 802 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 803 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 803 sadrzaj: prazna!
+Laptop ---> cena: 805 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 805 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 808 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 808 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 809 sadrzaj: prazna!
+Laptop ---> cena: 810 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 810 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 811 sadrzaj: prazna!
+Torba za laptop ---> cena: 812 sadrzaj: prazna!
+Laptop ---> cena: 813 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 814 sadrzaj: prazna!
+Laptop ---> cena: 814 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 815 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 815 sadrzaj: prazna!
+Torba za laptop ---> cena: 815 sadrzaj: prazna!
+Torba za laptop ---> cena: 816 sadrzaj: prazna!
+Laptop ---> cena: 819 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 819 sadrzaj: prazna!
+Laptop ---> cena: 820 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 820 sadrzaj: prazna!
+Laptop ---> cena: 820 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 821 sadrzaj: prazna!
+Laptop ---> cena: 822 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 822 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 822 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 824 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 825 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 827 sadrzaj: prazna!
+Laptop ---> cena: 827 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 827 sadrzaj: prazna!
+Torba za laptop ---> cena: 828 sadrzaj: prazna!
+Torba za laptop ---> cena: 828 sadrzaj: prazna!
+Torba za laptop ---> cena: 829 sadrzaj: Laptop ---> cena: 367 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 830 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 830 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 832 sadrzaj: prazna!
+Torba za laptop ---> cena: 832 sadrzaj: prazna!
+Laptop ---> cena: 834 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 834 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 834 sadrzaj: prazna!
+Laptop ---> cena: 835 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 836 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 836 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 838 sadrzaj: prazna!
+Torba za laptop ---> cena: 841 sadrzaj: prazna!
+Torba za laptop ---> cena: 842 sadrzaj: prazna!
+Torba za laptop ---> cena: 846 sadrzaj: prazna!
+Torba za laptop ---> cena: 846 sadrzaj: prazna!
+Torba za laptop ---> cena: 847 sadrzaj: prazna!
+Laptop ---> cena: 849 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 851 sadrzaj: prazna!
+Laptop ---> cena: 852 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 852 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 853 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 855 sadrzaj: prazna!
+Laptop ---> cena: 855 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 856 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 860 sadrzaj: prazna!
+Torba za laptop ---> cena: 860 sadrzaj: prazna!
+Laptop ---> cena: 862 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 863 sadrzaj: prazna!
+Torba za laptop ---> cena: 866 sadrzaj: prazna!
+Torba za laptop ---> cena: 867 sadrzaj: prazna!
+Torba za laptop ---> cena: 868 sadrzaj: prazna!
+Torba za laptop ---> cena: 868 sadrzaj: prazna!
+Laptop ---> cena: 872 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 874 sadrzaj: prazna!
+Laptop ---> cena: 877 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 877 sadrzaj: prazna!
+Laptop ---> cena: 877 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 879 sadrzaj: prazna!
+Torba za laptop ---> cena: 882 sadrzaj: prazna!
+Laptop ---> cena: 882 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 883 sadrzaj: prazna!
+Laptop ---> cena: 883 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 889 sadrzaj: prazna!
+Laptop ---> cena: 889 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 891 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 892 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 894 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 894 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 896 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 897 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 897 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 898 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 899 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 899 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 901 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 902 sadrzaj: prazna!
+Laptop ---> cena: 904 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 904 sadrzaj: prazna!
+Laptop ---> cena: 908 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 909 sadrzaj: prazna!
+Torba za laptop ---> cena: 909 sadrzaj: prazna!
+Torba za laptop ---> cena: 914 sadrzaj: prazna!
+Torba za laptop ---> cena: 918 sadrzaj: prazna!
+Laptop ---> cena: 919 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 919 sadrzaj: prazna!
+Laptop ---> cena: 920 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 920 sadrzaj: prazna!
+Laptop ---> cena: 920 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 920 sadrzaj: prazna!
+Laptop ---> cena: 921 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 922 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 924 sadrzaj: prazna!
+Torba za laptop ---> cena: 925 sadrzaj: prazna!
+Torba za laptop ---> cena: 925 sadrzaj: prazna!
+Laptop ---> cena: 926 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 926 sadrzaj: prazna!
+Laptop ---> cena: 928 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 928 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 929 sadrzaj: prazna!
+Laptop ---> cena: 929 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 930 sadrzaj: prazna!
+Laptop ---> cena: 931 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 931 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 932 sadrzaj: prazna!
+Laptop ---> cena: 932 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 933 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 934 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 936 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 937 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 939 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 939 sadrzaj: prazna!
+Torba za laptop ---> cena: 941 sadrzaj: prazna!
+Torba za laptop ---> cena: 942 sadrzaj: prazna!
+Laptop ---> cena: 942 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 942 sadrzaj: prazna!
+Laptop ---> cena: 942 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 943 sadrzaj: prazna!
+Laptop ---> cena: 945 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 946 sadrzaj: prazna!
+Laptop ---> cena: 946 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 946 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 947 sadrzaj: prazna!
+Laptop ---> cena: 947 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 947 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 948 sadrzaj: prazna!
+Laptop ---> cena: 948 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 948 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 949 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 949 sadrzaj: prazna!
+Torba za laptop ---> cena: 951 sadrzaj: prazna!
+Torba za laptop ---> cena: 952 sadrzaj: prazna!
+Torba za laptop ---> cena: 954 sadrzaj: prazna!
+Torba za laptop ---> cena: 955 sadrzaj: prazna!
+Torba za laptop ---> cena: 957 sadrzaj: prazna!
+Torba za laptop ---> cena: 957 sadrzaj: prazna!
+Laptop ---> cena: 957 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 958 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 959 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 961 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 962 sadrzaj: prazna!
+Torba za laptop ---> cena: 963 sadrzaj: prazna!
+Torba za laptop ---> cena: 964 sadrzaj: prazna!
+Torba za laptop ---> cena: 965 sadrzaj: prazna!
+Laptop ---> cena: 966 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 969 sadrzaj: prazna!
+Laptop ---> cena: 974 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 975 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 976 sadrzaj: prazna!
+Torba za laptop ---> cena: 976 sadrzaj: prazna!
+Torba za laptop ---> cena: 976 sadrzaj: prazna!
+Torba za laptop ---> cena: 979 sadrzaj: prazna!
+Laptop ---> cena: 980 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 980 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 982 sadrzaj: prazna!
+Torba za laptop ---> cena: 986 sadrzaj: prazna!
+Torba za laptop ---> cena: 986 sadrzaj: prazna!
+Laptop ---> cena: 986 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 991 sadrzaj: prazna!
+Laptop ---> cena: 991 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 992 sadrzaj: Laptop ---> cena: 1184 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 994 sadrzaj: prazna!
+Torba za laptop ---> cena: 997 sadrzaj: prazna!
+Laptop ---> cena: 997 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 998 sadrzaj: prazna!
+Torba za laptop ---> cena: 999 sadrzaj: prazna!
+Torba za laptop ---> cena: 1000 sadrzaj: prazna!
+Laptop ---> cena: 1000 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1001 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1001 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1001 sadrzaj: prazna!
+Torba za laptop ---> cena: 1001 sadrzaj: prazna!
+Laptop ---> cena: 1003 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1004 sadrzaj: prazna!
+Torba za laptop ---> cena: 1005 sadrzaj: prazna!
+Laptop ---> cena: 1005 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1006 sadrzaj: prazna!
+Torba za laptop ---> cena: 1006 sadrzaj: prazna!
+Laptop ---> cena: 1007 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1008 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1009 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1011 sadrzaj: prazna!
+Torba za laptop ---> cena: 1011 sadrzaj: prazna!
+Laptop ---> cena: 1013 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1013 sadrzaj: prazna!
+Torba za laptop ---> cena: 1013 sadrzaj: prazna!
+Laptop ---> cena: 1016 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1017 sadrzaj: prazna!
+Torba za laptop ---> cena: 1019 sadrzaj: prazna!
+Torba za laptop ---> cena: 1019 sadrzaj: prazna!
+Laptop ---> cena: 1019 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1019 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1019 sadrzaj: prazna!
+Laptop ---> cena: 1020 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1021 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1021 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1023 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1023 sadrzaj: prazna!
+Laptop ---> cena: 1023 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1024 sadrzaj: prazna!
+Laptop ---> cena: 1027 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1029 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1030 sadrzaj: prazna!
+Torba za laptop ---> cena: 1031 sadrzaj: prazna!
+Torba za laptop ---> cena: 1031 sadrzaj: prazna!
+Torba za laptop ---> cena: 1033 sadrzaj: prazna!
+Torba za laptop ---> cena: 1034 sadrzaj: prazna!
+Torba za laptop ---> cena: 1034 sadrzaj: prazna!
+Torba za laptop ---> cena: 1034 sadrzaj: prazna!
+Laptop ---> cena: 1038 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1038 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1039 sadrzaj: prazna!
+Torba za laptop ---> cena: 1039 sadrzaj: prazna!
+Torba za laptop ---> cena: 1040 sadrzaj: prazna!
+Torba za laptop ---> cena: 1042 sadrzaj: prazna!
+Torba za laptop ---> cena: 1044 sadrzaj: prazna!
+Torba za laptop ---> cena: 1044 sadrzaj: prazna!
+Laptop ---> cena: 1046 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1049 sadrzaj: prazna!
+Laptop ---> cena: 1050 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1052 sadrzaj: prazna!
+Laptop ---> cena: 1052 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1054 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1055 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1055 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1056 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1056 sadrzaj: prazna!
+Torba za laptop ---> cena: 1057 sadrzaj: prazna!
+Torba za laptop ---> cena: 1057 sadrzaj: prazna!
+Laptop ---> cena: 1057 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1059 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1059 sadrzaj: prazna!
+Laptop ---> cena: 1059 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1060 sadrzaj: prazna!
+Torba za laptop ---> cena: 1060 sadrzaj: prazna!
+Laptop ---> cena: 1062 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1063 sadrzaj: prazna!
+Torba za laptop ---> cena: 1064 sadrzaj: prazna!
+Laptop ---> cena: 1065 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1067 sadrzaj: prazna!
+Laptop ---> cena: 1067 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1067 sadrzaj: prazna!
+Laptop ---> cena: 1069 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1069 sadrzaj: prazna!
+Torba za laptop ---> cena: 1070 sadrzaj: prazna!
+Laptop ---> cena: 1071 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1071 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1074 sadrzaj: prazna!
+Torba za laptop ---> cena: 1074 sadrzaj: prazna!
+Laptop ---> cena: 1074 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1075 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1075 sadrzaj: prazna!
+Torba za laptop ---> cena: 1075 sadrzaj: prazna!
+Laptop ---> cena: 1076 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1078 sadrzaj: prazna!
+Torba za laptop ---> cena: 1080 sadrzaj: prazna!
+Laptop ---> cena: 1083 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1085 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1086 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1086 sadrzaj: prazna!
+Torba za laptop ---> cena: 1086 sadrzaj: prazna!
+Laptop ---> cena: 1086 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1086 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1089 sadrzaj: prazna!
+Torba za laptop ---> cena: 1089 sadrzaj: prazna!
+Laptop ---> cena: 1090 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1090 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1091 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1092 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1093 sadrzaj: prazna!
+Torba za laptop ---> cena: 1095 sadrzaj: prazna!
+Laptop ---> cena: 1095 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1099 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1099 sadrzaj: prazna!
+Laptop ---> cena: 1100 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1101 sadrzaj: prazna!
+Laptop ---> cena: 1102 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1102 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1103 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1105 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1107 sadrzaj: prazna!
+Torba za laptop ---> cena: 1109 sadrzaj: prazna!
+Torba za laptop ---> cena: 1111 sadrzaj: prazna!
+Laptop ---> cena: 1112 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1113 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1113 sadrzaj: prazna!
+Torba za laptop ---> cena: 1113 sadrzaj: prazna!
+Torba za laptop ---> cena: 1114 sadrzaj: prazna!
+Laptop ---> cena: 1117 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1117 sadrzaj: prazna!
+Laptop ---> cena: 1117 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1118 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1118 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1119 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1119 sadrzaj: prazna!
+Laptop ---> cena: 1119 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1120 sadrzaj: prazna!
+Laptop ---> cena: 1120 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1121 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1122 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1122 sadrzaj: prazna!
+Torba za laptop ---> cena: 1124 sadrzaj: prazna!
+Laptop ---> cena: 1125 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1126 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1127 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1128 sadrzaj: prazna!
+Laptop ---> cena: 1131 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1134 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1135 sadrzaj: prazna!
+Torba za laptop ---> cena: 1135 sadrzaj: prazna!
+Torba za laptop ---> cena: 1136 sadrzaj: prazna!
+Torba za laptop ---> cena: 1136 sadrzaj: prazna!
+Laptop ---> cena: 1140 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1140 sadrzaj: prazna!
+Laptop ---> cena: 1141 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1141 sadrzaj: prazna!
+Laptop ---> cena: 1141 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1142 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1142 sadrzaj: prazna!
+Torba za laptop ---> cena: 1142 sadrzaj: prazna!
+Torba za laptop ---> cena: 1146 sadrzaj: prazna!
+Torba za laptop ---> cena: 1146 sadrzaj: prazna!
+Laptop ---> cena: 1147 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1148 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1148 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1149 sadrzaj: prazna!
+Laptop ---> cena: 1149 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1149 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1150 sadrzaj: prazna!
+Laptop ---> cena: 1150 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1150 sadrzaj: prazna!
+Torba za laptop ---> cena: 1150 sadrzaj: prazna!
+Laptop ---> cena: 1153 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1153 sadrzaj: prazna!
+Torba za laptop ---> cena: 1154 sadrzaj: prazna!
+Laptop ---> cena: 1154 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1154 sadrzaj: prazna!
+Laptop ---> cena: 1156 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1158 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1160 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1163 sadrzaj: prazna!
+Laptop ---> cena: 1163 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1166 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1170 sadrzaj: prazna!
+Torba za laptop ---> cena: 1172 sadrzaj: prazna!
+Laptop ---> cena: 1174 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1174 sadrzaj: prazna!
+Laptop ---> cena: 1175 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1176 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1176 sadrzaj: prazna!
+Torba za laptop ---> cena: 1179 sadrzaj: prazna!
+Torba za laptop ---> cena: 1179 sadrzaj: prazna!
+Torba za laptop ---> cena: 1179 sadrzaj: prazna!
+Laptop ---> cena: 1180 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1180 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1181 sadrzaj: prazna!
+Torba za laptop ---> cena: 1182 sadrzaj: prazna!
+Laptop ---> cena: 1182 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1183 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1184 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1184 sadrzaj: prazna!
+Torba za laptop ---> cena: 1185 sadrzaj: prazna!
+Torba za laptop ---> cena: 1186 sadrzaj: prazna!
+Torba za laptop ---> cena: 1186 sadrzaj: prazna!
+Laptop ---> cena: 1187 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1188 sadrzaj: prazna!
+Torba za laptop ---> cena: 1190 sadrzaj: prazna!
+Laptop ---> cena: 1190 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1195 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1197 sadrzaj: prazna!
+Laptop ---> cena: 1198 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1199 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1199 sadrzaj: prazna!
+Torba za laptop ---> cena: 1199 sadrzaj: prazna!
+Torba za laptop ---> cena: 1201 sadrzaj: prazna!
+Torba za laptop ---> cena: 1202 sadrzaj: prazna!
+Laptop ---> cena: 1203 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1203 sadrzaj: prazna!
+Torba za laptop ---> cena: 1203 sadrzaj: prazna!
+Torba za laptop ---> cena: 1203 sadrzaj: prazna!
+Laptop ---> cena: 1205 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1205 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1207 sadrzaj: prazna!
+Torba za laptop ---> cena: 1207 sadrzaj: prazna!
+Torba za laptop ---> cena: 1210 sadrzaj: prazna!
+Torba za laptop ---> cena: 1210 sadrzaj: prazna!
+Torba za laptop ---> cena: 1215 sadrzaj: prazna!
+Laptop ---> cena: 1217 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1217 sadrzaj: prazna!
+Torba za laptop ---> cena: 1218 sadrzaj: prazna!
+Laptop ---> cena: 1219 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1219 sadrzaj: prazna!
+Laptop ---> cena: 1220 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1221 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1225 sadrzaj: prazna!
+Torba za laptop ---> cena: 1227 sadrzaj: prazna!
+Laptop ---> cena: 1227 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1230 sadrzaj: prazna!
+Torba za laptop ---> cena: 1230 sadrzaj: prazna!
+Laptop ---> cena: 1232 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1232 sadrzaj: prazna!
+Torba za laptop ---> cena: 1232 sadrzaj: prazna!
+Torba za laptop ---> cena: 1234 sadrzaj: prazna!
+Laptop ---> cena: 1237 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1237 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1238 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1239 sadrzaj: prazna!
+Torba za laptop ---> cena: 1239 sadrzaj: prazna!
+Laptop ---> cena: 1239 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1239 sadrzaj: prazna!
+Torba za laptop ---> cena: 1242 sadrzaj: prazna!
+Torba za laptop ---> cena: 1242 sadrzaj: prazna!
+Laptop ---> cena: 1244 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1245 sadrzaj: prazna!
+Torba za laptop ---> cena: 1247 sadrzaj: prazna!
+Torba za laptop ---> cena: 1248 sadrzaj: prazna!
+Torba za laptop ---> cena: 1249 sadrzaj: prazna!
+Torba za laptop ---> cena: 1249 sadrzaj: prazna!
+Torba za laptop ---> cena: 1249 sadrzaj: prazna!
+Laptop ---> cena: 1249 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1251 sadrzaj: prazna!
+Laptop ---> cena: 1251 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1252 sadrzaj: prazna!
+Laptop ---> cena: 1252 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1253 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1253 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1254 sadrzaj: prazna!
+Laptop ---> cena: 1254 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1254 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1255 sadrzaj: prazna!
+Laptop ---> cena: 1256 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1257 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1258 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1260 sadrzaj: prazna!
+Torba za laptop ---> cena: 1264 sadrzaj: prazna!
+Laptop ---> cena: 1269 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1270 sadrzaj: prazna!
+Torba za laptop ---> cena: 1270 sadrzaj: prazna!
+Laptop ---> cena: 1271 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1277 sadrzaj: prazna!
+Laptop ---> cena: 1278 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1278 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1281 sadrzaj: prazna!
+Laptop ---> cena: 1282 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1282 sadrzaj: prazna!
+Laptop ---> cena: 1282 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1283 sadrzaj: prazna!
+Laptop ---> cena: 1284 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1285 sadrzaj: prazna!
+Laptop ---> cena: 1286 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1286 sadrzaj: prazna!
+Laptop ---> cena: 1287 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1287 sadrzaj: prazna!
+Laptop ---> cena: 1290 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1292 sadrzaj: prazna!
+Torba za laptop ---> cena: 1292 sadrzaj: prazna!
+Laptop ---> cena: 1293 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1295 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1295 sadrzaj: prazna!
+Torba za laptop ---> cena: 1296 sadrzaj: prazna!
+Torba za laptop ---> cena: 1296 sadrzaj: prazna!
+Laptop ---> cena: 1299 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1301 sadrzaj: prazna!
+Torba za laptop ---> cena: 1303 sadrzaj: prazna!
+Laptop ---> cena: 1304 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1308 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1309 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1313 sadrzaj: prazna!
+Laptop ---> cena: 1313 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1314 sadrzaj: prazna!
+Torba za laptop ---> cena: 1314 sadrzaj: prazna!
+Laptop ---> cena: 1317 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1321 sadrzaj: prazna!
+Laptop ---> cena: 1322 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1323 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1324 sadrzaj: prazna!
+Laptop ---> cena: 1325 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1325 sadrzaj: prazna!
+Torba za laptop ---> cena: 1326 sadrzaj: prazna!
+Laptop ---> cena: 1328 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1329 sadrzaj: prazna!
+Laptop ---> cena: 1330 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1332 sadrzaj: prazna!
+Laptop ---> cena: 1332 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1334 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1334 sadrzaj: prazna!
+Laptop ---> cena: 1334 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1335 sadrzaj: prazna!
+Torba za laptop ---> cena: 1337 sadrzaj: prazna!
+Torba za laptop ---> cena: 1337 sadrzaj: prazna!
+Laptop ---> cena: 1337 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1339 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1341 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1343 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1344 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1345 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1345 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1347 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1347 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1349 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1352 sadrzaj: prazna!
+Torba za laptop ---> cena: 1353 sadrzaj: prazna!
+Laptop ---> cena: 1354 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1357 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1359 sadrzaj: prazna!
+Torba za laptop ---> cena: 1359 sadrzaj: prazna!
+Torba za laptop ---> cena: 1360 sadrzaj: prazna!
+Torba za laptop ---> cena: 1361 sadrzaj: prazna!
+Torba za laptop ---> cena: 1363 sadrzaj: prazna!
+Laptop ---> cena: 1364 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1365 sadrzaj: prazna!
+Torba za laptop ---> cena: 1365 sadrzaj: prazna!
+Torba za laptop ---> cena: 1369 sadrzaj: prazna!
+Laptop ---> cena: 1370 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1373 sadrzaj: prazna!
+Torba za laptop ---> cena: 1374 sadrzaj: prazna!
+Torba za laptop ---> cena: 1378 sadrzaj: prazna!
+Torba za laptop ---> cena: 1378 sadrzaj: prazna!
+Laptop ---> cena: 1378 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1380 sadrzaj: prazna!
+Laptop ---> cena: 1380 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1383 sadrzaj: prazna!
+Torba za laptop ---> cena: 1383 sadrzaj: prazna!
+Torba za laptop ---> cena: 1386 sadrzaj: prazna!
+Torba za laptop ---> cena: 1386 sadrzaj: prazna!
+Laptop ---> cena: 1387 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1387 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1387 sadrzaj: prazna!
+Laptop ---> cena: 1389 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1390 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1392 sadrzaj: prazna!
+Torba za laptop ---> cena: 1393 sadrzaj: prazna!
+Laptop ---> cena: 1393 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1393 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1394 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1394 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1396 sadrzaj: prazna!
+Laptop ---> cena: 1396 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1397 sadrzaj: prazna!
+Laptop ---> cena: 1398 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1399 sadrzaj: prazna!
+Laptop ---> cena: 1400 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1402 sadrzaj: prazna!
+Laptop ---> cena: 1404 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1405 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1405 sadrzaj: prazna!
+Torba za laptop ---> cena: 1406 sadrzaj: prazna!
+Laptop ---> cena: 1408 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1408 sadrzaj: prazna!
+Laptop ---> cena: 1408 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1409 sadrzaj: prazna!
+Laptop ---> cena: 1410 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1411 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1414 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1414 sadrzaj: prazna!
+Torba za laptop ---> cena: 1416 sadrzaj: prazna!
+Laptop ---> cena: 1418 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1418 sadrzaj: prazna!
+Laptop ---> cena: 1418 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1419 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1421 sadrzaj: prazna!
+Laptop ---> cena: 1422 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1423 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1423 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1426 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1426 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1429 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1431 sadrzaj: prazna!
+Torba za laptop ---> cena: 1432 sadrzaj: prazna!
+Torba za laptop ---> cena: 1432 sadrzaj: prazna!
+Torba za laptop ---> cena: 1432 sadrzaj: prazna!
+Torba za laptop ---> cena: 1432 sadrzaj: prazna!
+Laptop ---> cena: 1434 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1435 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1435 sadrzaj: prazna!
+Torba za laptop ---> cena: 1438 sadrzaj: prazna!
+Laptop ---> cena: 1441 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1444 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1445 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1449 sadrzaj: prazna!
+Torba za laptop ---> cena: 1455 sadrzaj: prazna!
+Laptop ---> cena: 1456 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1457 sadrzaj: prazna!
+Laptop ---> cena: 1458 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1458 sadrzaj: prazna!
+Torba za laptop ---> cena: 1459 sadrzaj: prazna!
+Torba za laptop ---> cena: 1459 sadrzaj: prazna!
+Laptop ---> cena: 1460 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1461 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1462 sadrzaj: prazna!
+Torba za laptop ---> cena: 1465 sadrzaj: prazna!
+Torba za laptop ---> cena: 1466 sadrzaj: prazna!
+Laptop ---> cena: 1467 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1468 sadrzaj: prazna!
+Torba za laptop ---> cena: 1469 sadrzaj: prazna!
+Laptop ---> cena: 1469 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1469 sadrzaj: prazna!
+Torba za laptop ---> cena: 1470 sadrzaj: prazna!
+Laptop ---> cena: 1471 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1473 sadrzaj: prazna!
+Laptop ---> cena: 1473 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1476 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1477 sadrzaj: prazna!
+Torba za laptop ---> cena: 1479 sadrzaj: prazna!
+Torba za laptop ---> cena: 1483 sadrzaj: prazna!
+Torba za laptop ---> cena: 1483 sadrzaj: prazna!
+Torba za laptop ---> cena: 1483 sadrzaj: prazna!
+Laptop ---> cena: 1483 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1487 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1488 sadrzaj: prazna!
+Torba za laptop ---> cena: 1488 sadrzaj: prazna!
+Laptop ---> cena: 1489 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1491 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1491 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1491 sadrzaj: prazna!
+Torba za laptop ---> cena: 1492 sadrzaj: prazna!
+Torba za laptop ---> cena: 1492 sadrzaj: prazna!
+Laptop ---> cena: 1492 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1493 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1494 sadrzaj: prazna!
+Torba za laptop ---> cena: 1495 sadrzaj: prazna!
+Torba za laptop ---> cena: 1496 sadrzaj: prazna!
+Torba za laptop ---> cena: 1497 sadrzaj: prazna!
+Laptop ---> cena: 1497 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1497 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1498 sadrzaj: prazna!
+Laptop ---> cena: 1502 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1503 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1504 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1504 sadrzaj: prazna!
+Laptop ---> cena: 1504 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1505 sadrzaj: prazna!
+Laptop ---> cena: 1506 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1506 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1506 sadrzaj: prazna!
+Laptop ---> cena: 1506 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1508 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1510 sadrzaj: prazna!
+Laptop ---> cena: 1511 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1512 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1512 sadrzaj: prazna!
+Laptop ---> cena: 1513 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1514 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1514 sadrzaj: prazna!
+Torba za laptop ---> cena: 1516 sadrzaj: prazna!
+Laptop ---> cena: 1516 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1516 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1517 sadrzaj: prazna!
+Torba za laptop ---> cena: 1517 sadrzaj: prazna!
+Laptop ---> cena: 1517 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1518 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1518 sadrzaj: prazna!
+Laptop ---> cena: 1518 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1519 sadrzaj: prazna!
+Laptop ---> cena: 1521 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1522 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1525 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1525 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1525 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1530 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1530 sadrzaj: prazna!
+Torba za laptop ---> cena: 1530 sadrzaj: prazna!
+Torba za laptop ---> cena: 1532 sadrzaj: prazna!
+Laptop ---> cena: 1532 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1533 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1534 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1534 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1534 sadrzaj: prazna!
+Laptop ---> cena: 1536 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1536 sadrzaj: prazna!
+Laptop ---> cena: 1537 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1538 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1538 sadrzaj: prazna!
+Torba za laptop ---> cena: 1538 sadrzaj: prazna!
+Laptop ---> cena: 1538 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1539 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1540 sadrzaj: prazna!
+Laptop ---> cena: 1541 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1541 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1542 sadrzaj: prazna!
+Laptop ---> cena: 1542 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1542 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1542 sadrzaj: prazna!
+Laptop ---> cena: 1542 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1544 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1545 sadrzaj: prazna!
+Torba za laptop ---> cena: 1545 sadrzaj: prazna!
+Torba za laptop ---> cena: 1546 sadrzaj: prazna!
+Torba za laptop ---> cena: 1548 sadrzaj: prazna!
+Laptop ---> cena: 1548 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1548 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1549 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1550 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1551 sadrzaj: prazna!
+Laptop ---> cena: 1552 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1553 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1555 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1558 sadrzaj: prazna!
+Laptop ---> cena: 1558 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1558 sadrzaj: prazna!
+Torba za laptop ---> cena: 1560 sadrzaj: prazna!
+Laptop ---> cena: 1561 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1561 sadrzaj: prazna!
+Laptop ---> cena: 1562 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1563 sadrzaj: prazna!
+Laptop ---> cena: 1563 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1564 sadrzaj: prazna!
+Torba za laptop ---> cena: 1565 sadrzaj: prazna!
+Torba za laptop ---> cena: 1566 sadrzaj: prazna!
+Torba za laptop ---> cena: 1568 sadrzaj: prazna!
+Torba za laptop ---> cena: 1570 sadrzaj: prazna!
+Laptop ---> cena: 1570 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1580 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1580 sadrzaj: prazna!
+Laptop ---> cena: 1582 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1585 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1587 sadrzaj: prazna!
+Torba za laptop ---> cena: 1589 sadrzaj: prazna!
+Laptop ---> cena: 1590 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1590 sadrzaj: prazna!
+Torba za laptop ---> cena: 1590 sadrzaj: prazna!
+Laptop ---> cena: 1593 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1595 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1595 sadrzaj: prazna!
+Laptop ---> cena: 1596 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1596 sadrzaj: prazna!
+Torba za laptop ---> cena: 1597 sadrzaj: prazna!
+Laptop ---> cena: 1598 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1600 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1601 sadrzaj: prazna!
+Laptop ---> cena: 1602 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1602 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1603 sadrzaj: prazna!
+Laptop ---> cena: 1605 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1605 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1607 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1610 sadrzaj: prazna!
+Laptop ---> cena: 1610 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1610 sadrzaj: prazna!
+Torba za laptop ---> cena: 1611 sadrzaj: prazna!
+Laptop ---> cena: 1612 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1614 sadrzaj: prazna!
+Laptop ---> cena: 1615 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1616 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1619 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1619 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1620 sadrzaj: prazna!
+Torba za laptop ---> cena: 1620 sadrzaj: prazna!
+Torba za laptop ---> cena: 1621 sadrzaj: prazna!
+Laptop ---> cena: 1624 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1625 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1627 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1629 sadrzaj: prazna!
+Laptop ---> cena: 1629 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1630 sadrzaj: prazna!
+Torba za laptop ---> cena: 1630 sadrzaj: prazna!
+Torba za laptop ---> cena: 1630 sadrzaj: prazna!
+Torba za laptop ---> cena: 1631 sadrzaj: prazna!
+Laptop ---> cena: 1632 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1632 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1633 sadrzaj: prazna!
+Torba za laptop ---> cena: 1633 sadrzaj: prazna!
+Torba za laptop ---> cena: 1634 sadrzaj: prazna!
+Torba za laptop ---> cena: 1637 sadrzaj: prazna!
+Laptop ---> cena: 1639 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1639 sadrzaj: prazna!
+Torba za laptop ---> cena: 1640 sadrzaj: prazna!
+Laptop ---> cena: 1640 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1640 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1641 sadrzaj: prazna!
+Torba za laptop ---> cena: 1641 sadrzaj: prazna!
+Laptop ---> cena: 1643 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1644 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1644 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1644 sadrzaj: prazna!
+Laptop ---> cena: 1645 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1646 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1646 sadrzaj: prazna!
+Torba za laptop ---> cena: 1648 sadrzaj: prazna!
+Laptop ---> cena: 1649 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1649 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1650 sadrzaj: prazna!
+Laptop ---> cena: 1651 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1652 sadrzaj: prazna!
+Torba za laptop ---> cena: 1652 sadrzaj: prazna!
+Torba za laptop ---> cena: 1653 sadrzaj: prazna!
+Laptop ---> cena: 1654 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1654 sadrzaj: prazna!
+Laptop ---> cena: 1657 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1658 sadrzaj: prazna!
+Laptop ---> cena: 1658 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1660 sadrzaj: prazna!
+Torba za laptop ---> cena: 1661 sadrzaj: prazna!
+Laptop ---> cena: 1663 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1663 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1664 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1665 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1666 sadrzaj: prazna!
+Laptop ---> cena: 1667 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1667 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1668 sadrzaj: prazna!
+Laptop ---> cena: 1668 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1670 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1670 sadrzaj: prazna!
+Torba za laptop ---> cena: 1671 sadrzaj: prazna!
+Laptop ---> cena: 1673 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1674 sadrzaj: prazna!
+Torba za laptop ---> cena: 1675 sadrzaj: prazna!
+Torba za laptop ---> cena: 1676 sadrzaj: prazna!
+Laptop ---> cena: 1678 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1682 sadrzaj: prazna!
+Laptop ---> cena: 1682 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1683 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1683 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1684 sadrzaj: prazna!
+Laptop ---> cena: 1685 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1687 sadrzaj: prazna!
+Laptop ---> cena: 1687 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1687 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1688 sadrzaj: prazna!
+Torba za laptop ---> cena: 1691 sadrzaj: prazna!
+Laptop ---> cena: 1693 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1694 sadrzaj: prazna!
+Torba za laptop ---> cena: 1695 sadrzaj: prazna!
+Torba za laptop ---> cena: 1696 sadrzaj: prazna!
+Torba za laptop ---> cena: 1697 sadrzaj: prazna!
+Laptop ---> cena: 1698 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1699 sadrzaj: prazna!
+Torba za laptop ---> cena: 1702 sadrzaj: prazna!
+Laptop ---> cena: 1704 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1705 sadrzaj: prazna!
+Laptop ---> cena: 1705 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1705 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1706 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1706 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1708 sadrzaj: prazna!
+Torba za laptop ---> cena: 1709 sadrzaj: prazna!
+Torba za laptop ---> cena: 1709 sadrzaj: prazna!
+Torba za laptop ---> cena: 1709 sadrzaj: prazna!
+Laptop ---> cena: 1709 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1709 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1710 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1712 sadrzaj: prazna!
+Torba za laptop ---> cena: 1714 sadrzaj: prazna!
+Torba za laptop ---> cena: 1715 sadrzaj: prazna!
+Torba za laptop ---> cena: 1715 sadrzaj: prazna!
+Laptop ---> cena: 1716 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1716 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1716 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1716 sadrzaj: prazna!
+Laptop ---> cena: 1717 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1718 sadrzaj: prazna!
+Torba za laptop ---> cena: 1718 sadrzaj: prazna!
+Torba za laptop ---> cena: 1719 sadrzaj: prazna!
+Laptop ---> cena: 1722 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1723 sadrzaj: prazna!
+Laptop ---> cena: 1725 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1726 sadrzaj: prazna!
+Torba za laptop ---> cena: 1726 sadrzaj: prazna!
+Torba za laptop ---> cena: 1727 sadrzaj: prazna!
+Torba za laptop ---> cena: 1727 sadrzaj: prazna!
+Torba za laptop ---> cena: 1729 sadrzaj: prazna!
+Torba za laptop ---> cena: 1734 sadrzaj: prazna!
+Laptop ---> cena: 1734 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1735 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1737 sadrzaj: prazna!
+Torba za laptop ---> cena: 1738 sadrzaj: prazna!
+Laptop ---> cena: 1738 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1739 sadrzaj: prazna!
+Torba za laptop ---> cena: 1740 sadrzaj: prazna!
+Torba za laptop ---> cena: 1740 sadrzaj: prazna!
+Torba za laptop ---> cena: 1741 sadrzaj: prazna!
+Laptop ---> cena: 1743 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1743 sadrzaj: prazna!
+Torba za laptop ---> cena: 1743 sadrzaj: prazna!
+Torba za laptop ---> cena: 1749 sadrzaj: prazna!
+Torba za laptop ---> cena: 1751 sadrzaj: prazna!
+Torba za laptop ---> cena: 1751 sadrzaj: prazna!
+Laptop ---> cena: 1753 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1754 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1754 sadrzaj: prazna!
+Laptop ---> cena: 1756 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1756 sadrzaj: prazna!
+Torba za laptop ---> cena: 1758 sadrzaj: prazna!
+Laptop ---> cena: 1759 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1759 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1759 sadrzaj: prazna!
+Torba za laptop ---> cena: 1759 sadrzaj: prazna!
+Torba za laptop ---> cena: 1764 sadrzaj: prazna!
+Torba za laptop ---> cena: 1764 sadrzaj: prazna!
+Laptop ---> cena: 1765 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1766 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1766 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1767 sadrzaj: prazna!
+Laptop ---> cena: 1767 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1770 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1770 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1771 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1773 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1774 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1776 sadrzaj: prazna!
+Laptop ---> cena: 1777 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1778 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1778 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1781 sadrzaj: prazna!
+Laptop ---> cena: 1781 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1782 sadrzaj: prazna!
+Laptop ---> cena: 1783 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1784 sadrzaj: prazna!
+Laptop ---> cena: 1787 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1787 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1788 sadrzaj: prazna!
+Torba za laptop ---> cena: 1788 sadrzaj: prazna!
+Torba za laptop ---> cena: 1788 sadrzaj: prazna!
+Laptop ---> cena: 1789 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1790 sadrzaj: prazna!
+Laptop ---> cena: 1794 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1796 sadrzaj: prazna!
+Laptop ---> cena: 1796 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1796 sadrzaj: prazna!
+Torba za laptop ---> cena: 1796 sadrzaj: prazna!
+Laptop ---> cena: 1796 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1800 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1801 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1802 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1803 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1805 sadrzaj: prazna!
+Torba za laptop ---> cena: 1805 sadrzaj: prazna!
+Laptop ---> cena: 1809 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1809 sadrzaj: prazna!
+Torba za laptop ---> cena: 1810 sadrzaj: prazna!
+Laptop ---> cena: 1811 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1812 sadrzaj: prazna!
+Torba za laptop ---> cena: 1813 sadrzaj: prazna!
+Torba za laptop ---> cena: 1813 sadrzaj: prazna!
+Laptop ---> cena: 1813 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1813 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1815 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1816 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1816 sadrzaj: prazna!
+Torba za laptop ---> cena: 1818 sadrzaj: prazna!
+Laptop ---> cena: 1818 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1818 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1819 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1821 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1822 sadrzaj: prazna!
+Laptop ---> cena: 1822 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1824 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1824 sadrzaj: prazna!
+Laptop ---> cena: 1824 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1829 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1830 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1832 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1832 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1832 sadrzaj: prazna!
+Torba za laptop ---> cena: 1834 sadrzaj: prazna!
+Torba za laptop ---> cena: 1834 sadrzaj: prazna!
+Torba za laptop ---> cena: 1834 sadrzaj: prazna!
+Laptop ---> cena: 1835 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1836 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1839 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1840 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1842 sadrzaj: prazna!
+Torba za laptop ---> cena: 1844 sadrzaj: prazna!
+Torba za laptop ---> cena: 1844 sadrzaj: prazna!
+Torba za laptop ---> cena: 1844 sadrzaj: prazna!
+Torba za laptop ---> cena: 1844 sadrzaj: prazna!
+Torba za laptop ---> cena: 1844 sadrzaj: prazna!
+Laptop ---> cena: 1844 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1844 sadrzaj: prazna!
+Torba za laptop ---> cena: 1845 sadrzaj: prazna!
+Torba za laptop ---> cena: 1846 sadrzaj: prazna!
+Torba za laptop ---> cena: 1846 sadrzaj: prazna!
+Laptop ---> cena: 1849 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1849 sadrzaj: prazna!
+Torba za laptop ---> cena: 1851 sadrzaj: prazna!
+Torba za laptop ---> cena: 1851 sadrzaj: prazna!
+Laptop ---> cena: 1852 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1852 sadrzaj: prazna!
+Torba za laptop ---> cena: 1853 sadrzaj: prazna!
+Torba za laptop ---> cena: 1856 sadrzaj: prazna!
+Laptop ---> cena: 1858 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1858 sadrzaj: prazna!
+Laptop ---> cena: 1858 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1859 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1859 sadrzaj: prazna!
+Laptop ---> cena: 1860 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1861 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1862 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1862 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1863 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1863 sadrzaj: prazna!
+Laptop ---> cena: 1864 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1865 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1866 sadrzaj: prazna!
+Laptop ---> cena: 1866 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1870 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1870 sadrzaj: prazna!
+Laptop ---> cena: 1872 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1874 sadrzaj: prazna!
+Laptop ---> cena: 1875 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1875 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1875 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1876 sadrzaj: prazna!
+Laptop ---> cena: 1876 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1879 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1879 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1880 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1881 sadrzaj: prazna!
+Torba za laptop ---> cena: 1882 sadrzaj: prazna!
+Torba za laptop ---> cena: 1884 sadrzaj: prazna!
+Laptop ---> cena: 1886 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1886 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1887 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1887 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1888 sadrzaj: prazna!
+Laptop ---> cena: 1889 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1889 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1889 sadrzaj: prazna!
+Torba za laptop ---> cena: 1890 sadrzaj: prazna!
+Laptop ---> cena: 1891 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1893 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1893 sadrzaj: prazna!
+Laptop ---> cena: 1894 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1895 sadrzaj: prazna!
+Laptop ---> cena: 1897 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1900 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1901 sadrzaj: prazna!
+Laptop ---> cena: 1903 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1903 sadrzaj: prazna!
+Torba za laptop ---> cena: 1903 sadrzaj: prazna!
+Laptop ---> cena: 1905 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1905 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1906 sadrzaj: prazna!
+Torba za laptop ---> cena: 1906 sadrzaj: prazna!
+Torba za laptop ---> cena: 1909 sadrzaj: prazna!
+Torba za laptop ---> cena: 1910 sadrzaj: prazna!
+Torba za laptop ---> cena: 1911 sadrzaj: prazna!
+Laptop ---> cena: 1911 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1912 sadrzaj: prazna!
+Laptop ---> cena: 1912 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1914 sadrzaj: prazna!
+Laptop ---> cena: 1914 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1914 sadrzaj: prazna!
+Laptop ---> cena: 1915 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1915 sadrzaj: prazna!
+Laptop ---> cena: 1915 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1916 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1919 sadrzaj: prazna!
+Torba za laptop ---> cena: 1920 sadrzaj: prazna!
+Laptop ---> cena: 1920 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1923 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1923 sadrzaj: prazna!
+Laptop ---> cena: 1926 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1929 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1931 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1933 sadrzaj: prazna!
+Torba za laptop ---> cena: 1934 sadrzaj: prazna!
+Laptop ---> cena: 1934 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1934 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1934 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1936 sadrzaj: prazna!
+Laptop ---> cena: 1937 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1937 sadrzaj: prazna!
+Laptop ---> cena: 1939 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1939 sadrzaj: prazna!
+Torba za laptop ---> cena: 1939 sadrzaj: prazna!
+Torba za laptop ---> cena: 1939 sadrzaj: prazna!
+Laptop ---> cena: 1941 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1941 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1941 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1941 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1942 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1943 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1943 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1944 sadrzaj: prazna!
+Torba za laptop ---> cena: 1947 sadrzaj: prazna!
+Laptop ---> cena: 1948 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1948 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1949 sadrzaj: prazna!
+Torba za laptop ---> cena: 1952 sadrzaj: prazna!
+Torba za laptop ---> cena: 1953 sadrzaj: prazna!
+Torba za laptop ---> cena: 1953 sadrzaj: prazna!
+Torba za laptop ---> cena: 1955 sadrzaj: prazna!
+Torba za laptop ---> cena: 1955 sadrzaj: prazna!
+Torba za laptop ---> cena: 1958 sadrzaj: prazna!
+Laptop ---> cena: 1959 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1959 sadrzaj: prazna!
+Torba za laptop ---> cena: 1962 sadrzaj: prazna!
+Laptop ---> cena: 1963 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1963 sadrzaj: prazna!
+Laptop ---> cena: 1964 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1965 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1965 sadrzaj: prazna!
+Torba za laptop ---> cena: 1966 sadrzaj: prazna!
+Laptop ---> cena: 1966 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1967 sadrzaj: prazna!
+Laptop ---> cena: 1968 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1970 sadrzaj: prazna!
+Torba za laptop ---> cena: 1972 sadrzaj: prazna!
+Torba za laptop ---> cena: 1973 sadrzaj: prazna!
+Laptop ---> cena: 1976 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1977 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 1978 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1978 sadrzaj: prazna!
+Torba za laptop ---> cena: 1979 sadrzaj: prazna!
+Laptop ---> cena: 1979 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1982 sadrzaj: prazna!
+Torba za laptop ---> cena: 1984 sadrzaj: prazna!
+Torba za laptop ---> cena: 1985 sadrzaj: prazna!
+Laptop ---> cena: 1985 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1986 sadrzaj: prazna!
+Laptop ---> cena: 1986 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1986 sadrzaj: prazna!
+Torba za laptop ---> cena: 1990 sadrzaj: prazna!
+Laptop ---> cena: 1990 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1991 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 1992 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 1995 sadrzaj: prazna!
+Laptop ---> cena: 1995 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 1996 sadrzaj: prazna!
+Torba za laptop ---> cena: 1999 sadrzaj: prazna!
+Laptop ---> cena: 1999 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2000 sadrzaj: prazna!
+Torba za laptop ---> cena: 2000 sadrzaj: prazna!
+Torba za laptop ---> cena: 2000 sadrzaj: prazna!
+Torba za laptop ---> cena: 2001 sadrzaj: prazna!
+Torba za laptop ---> cena: 2002 sadrzaj: prazna!
+Torba za laptop ---> cena: 2007 sadrzaj: prazna!
+Laptop ---> cena: 2007 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2008 sadrzaj: prazna!
+Torba za laptop ---> cena: 2008 sadrzaj: prazna!
+Torba za laptop ---> cena: 2009 sadrzaj: prazna!
+Laptop ---> cena: 2009 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2010 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2010 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2011 sadrzaj: prazna!
+Laptop ---> cena: 2011 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2012 sadrzaj: prazna!
+Laptop ---> cena: 2012 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2014 sadrzaj: prazna!
+Torba za laptop ---> cena: 2016 sadrzaj: prazna!
+Torba za laptop ---> cena: 2017 sadrzaj: prazna!
+Laptop ---> cena: 2017 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2017 sadrzaj: prazna!
+Laptop ---> cena: 2018 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2019 sadrzaj: prazna!
+Torba za laptop ---> cena: 2020 sadrzaj: prazna!
+Torba za laptop ---> cena: 2022 sadrzaj: prazna!
+Torba za laptop ---> cena: 2025 sadrzaj: prazna!
+Laptop ---> cena: 2027 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2027 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2028 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2029 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2031 sadrzaj: prazna!
+Laptop ---> cena: 2031 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2032 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2032 sadrzaj: prazna!
+Torba za laptop ---> cena: 2033 sadrzaj: prazna!
+Torba za laptop ---> cena: 2034 sadrzaj: prazna!
+Torba za laptop ---> cena: 2037 sadrzaj: prazna!
+Laptop ---> cena: 2038 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2038 sadrzaj: prazna!
+Torba za laptop ---> cena: 2040 sadrzaj: prazna!
+Torba za laptop ---> cena: 2040 sadrzaj: prazna!
+Torba za laptop ---> cena: 2042 sadrzaj: prazna!
+Laptop ---> cena: 2042 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2044 sadrzaj: prazna!
+Torba za laptop ---> cena: 2044 sadrzaj: prazna!
+Laptop ---> cena: 2045 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2049 sadrzaj: prazna!
+Laptop ---> cena: 2049 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2054 sadrzaj: prazna!
+Torba za laptop ---> cena: 2054 sadrzaj: prazna!
+Laptop ---> cena: 2055 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2055 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2056 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2057 sadrzaj: prazna!
+Torba za laptop ---> cena: 2058 sadrzaj: prazna!
+Laptop ---> cena: 2058 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2059 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2061 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2062 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2063 sadrzaj: prazna!
+Laptop ---> cena: 2063 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2065 sadrzaj: prazna!
+Torba za laptop ---> cena: 2065 sadrzaj: prazna!
+Torba za laptop ---> cena: 2067 sadrzaj: prazna!
+Laptop ---> cena: 2069 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2070 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2070 sadrzaj: prazna!
+Torba za laptop ---> cena: 2072 sadrzaj: prazna!
+Torba za laptop ---> cena: 2072 sadrzaj: prazna!
+Laptop ---> cena: 2072 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2073 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2074 sadrzaj: prazna!
+Laptop ---> cena: 2075 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2077 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2080 sadrzaj: prazna!
+Torba za laptop ---> cena: 2080 sadrzaj: prazna!
+Laptop ---> cena: 2081 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2082 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2083 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2084 sadrzaj: prazna!
+Laptop ---> cena: 2085 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2085 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2085 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2086 sadrzaj: prazna!
+Torba za laptop ---> cena: 2087 sadrzaj: prazna!
+Laptop ---> cena: 2087 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2088 sadrzaj: prazna!
+Torba za laptop ---> cena: 2090 sadrzaj: prazna!
+Torba za laptop ---> cena: 2090 sadrzaj: prazna!
+Laptop ---> cena: 2091 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2092 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2092 sadrzaj: prazna!
+Laptop ---> cena: 2092 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2093 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2093 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2094 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2096 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2098 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2100 opis: Dobra cena! stanje: 0
+Torba za laptop ---> cena: 2101 sadrzaj: prazna!
+Laptop ---> cena: 2102 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2103 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2104 sadrzaj: prazna!
+Torba za laptop ---> cena: 2107 sadrzaj: prazna!
+Torba za laptop ---> cena: 2108 sadrzaj: prazna!
+Torba za laptop ---> cena: 2108 sadrzaj: prazna!
+Laptop ---> cena: 2111 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2111 opis: Dobra cena! stanje: 0
+Laptop ---> cena: 2111 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2111 sadrzaj: prazna!
+Laptop ---> cena: 2112 opis: Dobra cena! stanje: 1
+Laptop ---> cena: 2112 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2114 sadrzaj: prazna!
+Torba za laptop ---> cena: 2114 sadrzaj: prazna!
+Laptop ---> cena: 2114 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2115 sadrzaj: prazna!
+Laptop ---> cena: 2116 opis: Dobra cena! stanje: 1
+Torba za laptop ---> cena: 2117 sadrzaj: prazna!
+Torba za laptop ---> cena: 2117 sadrzaj: prazna!

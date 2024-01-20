@@ -1,0 +1,5 @@
+Adresa za isporuku: 71, boja: crvena, broj cokolada: 5, tezina cokolada: 71.5, cena: 17.6573
+Adresa za isporuku: 72, boja: plava, broj autica: 8, tezina autica: 96, cena: 572.8
+Adresa za isporuku: 74, boja: ljubicasta, broj autica: 3, tezina autica: 36, cena: 301.8
+Adresa za isporuku: 75, boja: braon, broj cokolada: 18, tezina cokolada: 257.4, cena: 53.4965
+Adresa za isporuku: 76, boja: zelena, broj autica: 34, tezina autica: 408, cena: 1754.4
